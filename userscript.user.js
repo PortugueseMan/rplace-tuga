@@ -21,7 +21,7 @@ if (window.top !== window.self) {
 }
 
 function updateImage() {
-    overlayImage.src = "https://github.com/PortugueseMan/rplace-tuga/blob/main/canva.png"
+    overlayImage.src = "https://raw.githubusercontent.com/PortugueseMan/rplace-tuga/main/canva.png"
 }
 
-setInterval(function () {overlayImage.src = "https://github.com/PortugueseMan/rplace-tuga/blob/main/canva.png"}, 30000);
+setInterval(function () {overlayImage.src = "https://raw.githubusercontent.com/PortugueseMan/rplace-tuga/main/canva.png"}, 30000);
