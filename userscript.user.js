@@ -14,8 +14,8 @@ if (window.top !== window.self) {
             document.getElementsByTagName("mona-lisa-embed")[0].shadowRoot.children[0].getElementsByTagName("mona-lisa-canvas")[0].shadowRoot.children[0].appendChild(
         (function () {
             const i = document.createElement("img");
-            i.src = "https://raw.githubusercontent.com/AsumaPT/draconBot/main/canvas_pt.png";
-            i.style = "position: absolute;left: 0;top: 0px;image-rendering: pixelated;width: 2000px;height: 1000px";
+            i.src = "https://raw.githubusercontent.com/PortugueseMan/rplace-tuga/main/canva.png";
+            i.style = "position: absolute;left: 0;top: 0px;image-rendering: pixelated;width: 500px;height: 500px";
             i.id = "mcss-overlay"
             i.setAttribute("vis",1)
             console.log(i);
