@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name         Portugal Overlay
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.2.1
 // @description  Orgulho tuga!
 // @author       Some anon
+// @updateURL    https://github.com/PortugueseMan/rplace-tuga/raw/main/userscript.user.js
+// @downloadURL  https://github.com/PortugueseMan/rplace-tuga/raw/main/userscript.user.js
 // @match        https://garlic-bread.reddit.com/embed*
 // @match        https://hot-potato.reddit.com/embed*
 // @icon         https://i.pinimg.com/originals/bb/28/f0/bb28f08db88265208c7329474998d8a5.png
