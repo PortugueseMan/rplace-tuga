@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Portugal Overlay
 // @namespace    http://tampermonkey.net/
-// @version      0.2.2
+// @version      0.2.3
 // @description  Orgulho tuga!
 // @author       Some anon
 // @updateURL    https://github.com/PortugueseMan/rplace-tuga/raw/main/userscript.user.js
@@ -17,7 +17,7 @@ if (window.top !== window.self) {
         const canvasContainer = document.querySelector("garlic-bread-embed").shadowRoot.querySelector("div.layout").querySelector("garlic-bread-canvas").shadowRoot.querySelector("div.container");
         overlayImage = document.createElement("img");
         updateImage();
-        overlayImage.style = `position: absolute;left: 501px;top: 0;image-rendering: pixelated;width: 1500px;height: 1000px;`;
+        overlayImage.style = `position: absolute;left: 500px;top: 0;image-rendering: pixelated;width: 1500px;height: 1000px;`;
         canvasContainer.appendChild(overlayImage);
     }, false);
 }
