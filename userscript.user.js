@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Portugal Overlay
 // @namespace    http://tampermonkey.net/
-// @version      0.2.3
+// @version      0.2.4
 // @description  Orgulho tuga!
 // @author       Some anon
 // @updateURL    https://github.com/PortugueseMan/rplace-tuga/raw/main/userscript.user.js
