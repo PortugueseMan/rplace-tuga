@@ -4,3 +4,7 @@
 2. Carregar [aqui](https://github.com/PortugueseMan/rplace-tuga/raw/main/userscript.user.js) e instalar o script
 3.  Garantir que po script está ativado <br> ![plot](./assets/active.png) 
 4. Resultado final: <br> ![plot](./assets/result.png) <br>
+
+## Discord: 
+
+[https://discord.gg/nCjdJMm2](https://discord.gg/nCjdJMm2)
