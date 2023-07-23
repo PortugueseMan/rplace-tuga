@@ -7,4 +7,4 @@
 
 ## Discord: 
 
-[https://discord.gg/nCjdJMm2](https://discord.gg/nCjdJMm2)
+[https://discord.gg/tugaplace](https://discord.gg/tugaplace)
