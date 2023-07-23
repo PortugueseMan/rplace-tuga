@@ -6,7 +6,7 @@ import sys
 # Low value equals more white/black and less color
 gray_scale = 90
 # white offset - Higher value equals more white, lower means more black
-white_offset = 0
+white_offset = -10
 
 black = (0, 0, 0)
 white = (255, 255, 255)
@@ -22,7 +22,7 @@ print(input_img)
 img = Image.open(input_img).convert("RGBA")
 
 # More will be added, will need an update then
-color_pallet1 = ["#FF4500", "#FFA800", "#FFD635", "#00A368", "#3690EA", "#B44AC0", "#000000", "#FFFFFF"]
+color_pallet1 = ["#FF4500", "#FFA800", "#FFD635", "#00A368", "#3690EA", "#B44AC0", "#000000", "#FFFFFF", "#D4D7D9", "#898D90"]
 
 
 def convert_hex_to_rgb():
